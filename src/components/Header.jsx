@@ -10,7 +10,7 @@ const Header = () => {
 
   const { gf, filter, setFilter, favorites } = GifState();
 
-  // Fetching
+  // Fetching from Giphy API
   const fetchGifCategories = async () => {
     const { data } = await gf.categories();
     setCategories(data);
