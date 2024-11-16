@@ -22,11 +22,11 @@ const Home = () => {
 
   return (
     <div>
-      {/* <img
+      <img
         src="banner.gif"
         alt="earth banner"
         className="mt-2 rounded w-full"
-      /> */}
+      />
 
       <FilterGifs showTrending />
 

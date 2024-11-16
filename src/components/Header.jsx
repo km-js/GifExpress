@@ -26,10 +26,10 @@ const Header = () => {
       <div className="relative flex gap-4 justify-between items-center mb-2">
         {/* Logo */}
         <Link to="/" className="flex gap-2">
-          <img src="" className="w-8" alt="GIFExpress Logo" />
-          {/* <h1 className="text-xl text-bold tracking-tight cursor-pointer">
+          <img src="/logo.svg" className="w-8" alt="Giphy Logo" />
+          <h1 className="text-xl text-bold tracking-tight cursor-pointer">
             GIFExpress
-          </h1> */}
+          </h1>
         </Link>
 
         <div className="font-bold text-md flex gap-2 items-center">
