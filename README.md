@@ -1,5 +1,7 @@
 # GifExpress ✨
- A seamless platform to create, share, and explore GIFs, inspired by gif.com
+A seamless platform to create, share, and explore GIFs, inspired by gif.com
+
+Tech used:- Vite, TailwindCSS
 
 [Go to Project](https://gif-express.vercel.app/)
 
