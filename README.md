@@ -1,8 +1,6 @@
-# React + Vite
+# GifExpress ✨
+ A seamless platform to create, share, and explore GIFs, inspired by gif.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Go to Project](https://gif-express.vercel.app/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![GifExpress Image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dw1hkdzjqyf0v46dqe1e.png)
